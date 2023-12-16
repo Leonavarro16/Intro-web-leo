@@ -1,0 +1,37 @@
+.navigation {
+    background-color: aqua;
+    padding: 20px;
+}
+
+.navigation-right {
+    float: right;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: white;
+}
+
+.texto1 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aqua;
+}
+
+#botoncito {
+    background-color: rgb(44, 182, 44);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.inputs {
+    background-color: antiquewhite;
+    border-radius: 5px;
+    padding: 5px;
+}
